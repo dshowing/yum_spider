@@ -1,0 +1,277 @@
+{
+  "arch": "x86_64",
+  "build": "py36h28b3542_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.6,<3.7.0a0"
+  ],
+  "extracted_package_dir": "C:\\ProgramData\\Miniconda3\\pkgs\\attrs-18.2.0-py36h28b3542_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/attr/__init__.py",
+    "Lib/site-packages/attr/__init__.pyi",
+    "Lib/site-packages/attr/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/attr/__pycache__/_compat.cpython-36.pyc",
+    "Lib/site-packages/attr/__pycache__/_config.cpython-36.pyc",
+    "Lib/site-packages/attr/__pycache__/_funcs.cpython-36.pyc",
+    "Lib/site-packages/attr/__pycache__/_make.cpython-36.pyc",
+    "Lib/site-packages/attr/__pycache__/converters.cpython-36.pyc",
+    "Lib/site-packages/attr/__pycache__/exceptions.cpython-36.pyc",
+    "Lib/site-packages/attr/__pycache__/filters.cpython-36.pyc",
+    "Lib/site-packages/attr/__pycache__/validators.cpython-36.pyc",
+    "Lib/site-packages/attr/_compat.py",
+    "Lib/site-packages/attr/_config.py",
+    "Lib/site-packages/attr/_funcs.py",
+    "Lib/site-packages/attr/_make.py",
+    "Lib/site-packages/attr/converters.py",
+    "Lib/site-packages/attr/converters.pyi",
+    "Lib/site-packages/attr/exceptions.py",
+    "Lib/site-packages/attr/exceptions.pyi",
+    "Lib/site-packages/attr/filters.py",
+    "Lib/site-packages/attr/filters.pyi",
+    "Lib/site-packages/attr/py.typed",
+    "Lib/site-packages/attr/validators.py",
+    "Lib/site-packages/attr/validators.pyi",
+    "Lib/site-packages/attrs-18.2.0.dist-info/INSTALLER",
+    "Lib/site-packages/attrs-18.2.0.dist-info/LICENSE.txt",
+    "Lib/site-packages/attrs-18.2.0.dist-info/METADATA",
+    "Lib/site-packages/attrs-18.2.0.dist-info/RECORD",
+    "Lib/site-packages/attrs-18.2.0.dist-info/WHEEL",
+    "Lib/site-packages/attrs-18.2.0.dist-info/top_level.txt"
+  ],
+  "fn": "attrs-18.2.0-py36h28b3542_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\ProgramData\\Miniconda3\\pkgs\\attrs-18.2.0-py36h28b3542_0",
+    "type": 1
+  },
+  "md5": "09fa5b59c0b5de1e3f32fffa9a9d9db6",
+  "name": "attrs",
+  "package_tarball_full_path": "C:\\ProgramData\\Miniconda3\\pkgs\\attrs-18.2.0-py36h28b3542_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/attr/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e6944523b276ecc452bddcdc46250c5ba9363c46d4dfe269ddd7b8228860d352",
+        "sha256_in_prefix": "e6944523b276ecc452bddcdc46250c5ba9363c46d4dfe269ddd7b8228860d352",
+        "size_in_bytes": 1244
+      },
+      {
+        "_path": "Lib/site-packages/attr/__init__.pyi",
+        "path_type": "hardlink",
+        "sha256": "dce885b97015861c39f7d79a0905e276a6b2e5980d84819538bf4c12219853a9",
+        "sha256_in_prefix": "dce885b97015861c39f7d79a0905e276a6b2e5980d84819538bf4c12219853a9",
+        "size_in_bytes": 7638
+      },
+      {
+        "_path": "Lib/site-packages/attr/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "10a81ee643a41244db70204400621f44734c0210ac4d3993569def07fb22086f",
+        "sha256_in_prefix": "10a81ee643a41244db70204400621f44734c0210ac4d3993569def07fb22086f",
+        "size_in_bytes": 1363
+      },
+      {
+        "_path": "Lib/site-packages/attr/__pycache__/_compat.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "5fb5dbf20bc02ab8e9daa72fec34574d423925530b64fb37499ea90f3ed90da3",
+        "sha256_in_prefix": "5fb5dbf20bc02ab8e9daa72fec34574d423925530b64fb37499ea90f3ed90da3",
+        "size_in_bytes": 4387
+      },
+      {
+        "_path": "Lib/site-packages/attr/__pycache__/_config.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "5f559abeb145ee25909e9269838d72fd309b816280bb42b6b84a8ba2076406e7",
+        "sha256_in_prefix": "5f559abeb145ee25909e9269838d72fd309b816280bb42b6b84a8ba2076406e7",
+        "size_in_bytes": 682
+      },
+      {
+        "_path": "Lib/site-packages/attr/__pycache__/_funcs.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "1c83da9e6e4465e71129d3be976abd54a88e3ea4bf2baeed0fe7eda5f5b78ffb",
+        "sha256_in_prefix": "1c83da9e6e4465e71129d3be976abd54a88e3ea4bf2baeed0fe7eda5f5b78ffb",
+        "size_in_bytes": 7493
+      },
+      {
+        "_path": "Lib/site-packages/attr/__pycache__/_make.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "d8ce62c5fa22d2394bb8af336457d37ae10dcbee233fd73a0af770a069d77f84",
+        "sha256_in_prefix": "d8ce62c5fa22d2394bb8af336457d37ae10dcbee233fd73a0af770a069d77f84",
+        "size_in_bytes": 50597
+      },
+      {
+        "_path": "Lib/site-packages/attr/__pycache__/converters.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "9a64c40e450e82ca8c37a1a5e90760cd681ceb019e94b1ac097329860c8bb48a",
+        "sha256_in_prefix": "9a64c40e450e82ca8c37a1a5e90760cd681ceb019e94b1ac097329860c8bb48a",
+        "size_in_bytes": 2276
+      },
+      {
+        "_path": "Lib/site-packages/attr/__pycache__/exceptions.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "073a68711f3aaec6d9ab99777f153423c64279c60aa88650f17004d8288405bf",
+        "sha256_in_prefix": "073a68711f3aaec6d9ab99777f153423c64279c60aa88650f17004d8288405bf",
+        "size_in_bytes": 2085
+      },
+      {
+        "_path": "Lib/site-packages/attr/__pycache__/filters.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "f5286e436f3588f8ea91a6772927f9c204f2a9999c2015d36002774999cf2f1a",
+        "sha256_in_prefix": "f5286e436f3588f8ea91a6772927f9c204f2a9999c2015d36002774999cf2f1a",
+        "size_in_bytes": 1754
+      },
+      {
+        "_path": "Lib/site-packages/attr/__pycache__/validators.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "6b7c909add8c7377db42faf0328819cb578f6bbc3dd1ce93e879805f348145fd",
+        "sha256_in_prefix": "6b7c909add8c7377db42faf0328819cb578f6bbc3dd1ce93e879805f348145fd",
+        "size_in_bytes": 5694
+      },
+      {
+        "_path": "Lib/site-packages/attr/_compat.py",
+        "path_type": "hardlink",
+        "sha256": "6c894e5a3fdf3dccfd67f9245dd292fda420c7ea25918fb7af77e55bf3cbaad2",
+        "sha256_in_prefix": "6c894e5a3fdf3dccfd67f9245dd292fda420c7ea25918fb7af77e55bf3cbaad2",
+        "size_in_bytes": 4468
+      },
+      {
+        "_path": "Lib/site-packages/attr/_config.py",
+        "path_type": "hardlink",
+        "sha256": "fcabd6d2641d1f63d88c773461f214695fe8da955f33bce2304613c7098484e0",
+        "sha256_in_prefix": "fcabd6d2641d1f63d88c773461f214695fe8da955f33bce2304613c7098484e0",
+        "size_in_bytes": 514
+      },
+      {
+        "_path": "Lib/site-packages/attr/_funcs.py",
+        "path_type": "hardlink",
+        "sha256": "eefdcc34c1dd3943f636488b3f0122580a2b06cdee350ab9467ef439daf9baaa",
+        "sha256_in_prefix": "eefdcc34c1dd3943f636488b3f0122580a2b06cdee350ab9467ef439daf9baaa",
+        "size_in_bytes": 9725
+      },
+      {
+        "_path": "Lib/site-packages/attr/_make.py",
+        "path_type": "hardlink",
+        "sha256": "59e433dab042945d04b204c66b16a255ffe653d8a31e1fa520e7da88155f9b1f",
+        "sha256_in_prefix": "59e433dab042945d04b204c66b16a255ffe653d8a31e1fa520e7da88155f9b1f",
+        "size_in_bytes": 65714
+      },
+      {
+        "_path": "Lib/site-packages/attr/converters.py",
+        "path_type": "hardlink",
+        "sha256": "4853e2cfafa102cda9c37927ed2ce405c76913d0235bc893f708e97b678b0eb4",
+        "sha256_in_prefix": "4853e2cfafa102cda9c37927ed2ce405c76913d0235bc893f708e97b678b0eb4",
+        "size_in_bytes": 2155
+      },
+      {
+        "_path": "Lib/site-packages/attr/converters.pyi",
+        "path_type": "hardlink",
+        "sha256": "c00842a0e4f530557cb77db7ae90fceceedbc50f0260b4cf88141dfb6f4189e2",
+        "sha256_in_prefix": "c00842a0e4f530557cb77db7ae90fceceedbc50f0260b4cf88141dfb6f4189e2",
+        "size_in_bytes": 351
+      },
+      {
+        "_path": "Lib/site-packages/attr/exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "3745907cabc155de065a00f14db152720e1a8f2efe1e5caf5e2c25490040d230",
+        "sha256_in_prefix": "3745907cabc155de065a00f14db152720e1a8f2efe1e5caf5e2c25490040d230",
+        "size_in_bytes": 1272
+      },
+      {
+        "_path": "Lib/site-packages/attr/exceptions.pyi",
+        "path_type": "hardlink",
+        "sha256": "b2aed36c11061927fcd6e15749c5bdfda3badaf774bfa2c0beacf46bc1ebb31c",
+        "sha256_in_prefix": "b2aed36c11061927fcd6e15749c5bdfda3badaf774bfa2c0beacf46bc1ebb31c",
+        "size_in_bytes": 257
+      },
+      {
+        "_path": "Lib/site-packages/attr/filters.py",
+        "path_type": "hardlink",
+        "sha256": "b3a36b7115892a50906ae3c41f44b8966805c2509d51070729c3640c7a69b4de",
+        "sha256_in_prefix": "b3a36b7115892a50906ae3c41f44b8966805c2509d51070729c3640c7a69b4de",
+        "size_in_bytes": 1153
+      },
+      {
+        "_path": "Lib/site-packages/attr/filters.pyi",
+        "path_type": "hardlink",
+        "sha256": "3305eda33184ca2d4fc32c723b0d5dcf2c1644cd6ee0b6d239c4646833b46b23",
+        "sha256_in_prefix": "3305eda33184ca2d4fc32c723b0d5dcf2c1644cd6ee0b6d239c4646833b46b23",
+        "size_in_bytes": 189
+      },
+      {
+        "_path": "Lib/site-packages/attr/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/attr/validators.py",
+        "path_type": "hardlink",
+        "sha256": "6443d2b16707f177ccd093261f4a44d32ca0f212269b82ca33f144f2a9dc5d57",
+        "sha256_in_prefix": "6443d2b16707f177ccd093261f4a44d32ca0f212269b82ca33f144f2a9dc5d57",
+        "size_in_bytes": 5174
+      },
+      {
+        "_path": "Lib/site-packages/attr/validators.pyi",
+        "path_type": "hardlink",
+        "sha256": "53fa1daf4060e3eda5283ec19fa9ddf663d3c9b4416b47c91fe79cca58dc76c4",
+        "sha256_in_prefix": "53fa1daf4060e3eda5283ec19fa9ddf663d3c9b4416b47c91fe79cca58dc76c4",
+        "size_in_bytes": 528
+      },
+      {
+        "_path": "Lib/site-packages/attrs-18.2.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "sha256_in_prefix": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "size_in_bytes": 4
+      },
+      {
+        "_path": "Lib/site-packages/attrs-18.2.0.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "bf659a28b49240602f56bbdf490cbe2ec509b15b98f99d7b19a52c740e327863",
+        "sha256_in_prefix": "bf659a28b49240602f56bbdf490cbe2ec509b15b98f99d7b19a52c740e327863",
+        "size_in_bytes": 1082
+      },
+      {
+        "_path": "Lib/site-packages/attrs-18.2.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "9694f2914031acb6b9467a41ba57ee145fa339196ab6b08c6186f86caa834b4f",
+        "sha256_in_prefix": "9694f2914031acb6b9467a41ba57ee145fa339196ab6b08c6186f86caa834b4f",
+        "size_in_bytes": 11173
+      },
+      {
+        "_path": "Lib/site-packages/attrs-18.2.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "3bbe90ef6da4b26c47105466458cd4abe04925106e6323a1adbacbf8913f3f56",
+        "sha256_in_prefix": "3bbe90ef6da4b26c47105466458cd4abe04925106e6323a1adbacbf8913f3f56",
+        "size_in_bytes": 1980
+      },
+      {
+        "_path": "Lib/site-packages/attrs-18.2.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "086e75e8c7b54c4c90aa440ca90a670da76b5a2eee8cf93cf29a1202edce9624",
+        "sha256_in_prefix": "086e75e8c7b54c4c90aa440ca90a670da76b5a2eee8cf93cf29a1202edce9624",
+        "size_in_bytes": 116
+      },
+      {
+        "_path": "Lib/site-packages/attrs-18.2.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "b6545831d76446528fa89f7ac0fdbf8fdb84b2670d1e00f649bb967780b31955",
+        "sha256_in_prefix": "b6545831d76446528fa89f7ac0fdbf8fdb84b2670d1e00f649bb967780b31955",
+        "size_in_bytes": 5
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "None",
+  "size": 52068,
+  "subdir": "win-64",
+  "timestamp": 1536072683580,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/attrs-18.2.0-py36h28b3542_0.tar.bz2",
+  "version": "18.2.0"
+}

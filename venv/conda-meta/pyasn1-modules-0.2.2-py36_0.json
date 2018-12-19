@@ -1,0 +1,534 @@
+{
+  "arch": "x86_64",
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "pyasn1 >=0.4.1,<0.5.0",
+    "python >=3.6,<3.7.0a0"
+  ],
+  "extracted_package_dir": "C:\\ProgramData\\Miniconda3\\pkgs\\pyasn1-modules-0.2.2-py36_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/pyasn1_modules-0.2.2-py3.6.egg-info/PKG-INFO",
+    "Lib/site-packages/pyasn1_modules-0.2.2-py3.6.egg-info/SOURCES.txt",
+    "Lib/site-packages/pyasn1_modules-0.2.2-py3.6.egg-info/dependency_links.txt",
+    "Lib/site-packages/pyasn1_modules-0.2.2-py3.6.egg-info/requires.txt",
+    "Lib/site-packages/pyasn1_modules-0.2.2-py3.6.egg-info/top_level.txt",
+    "Lib/site-packages/pyasn1_modules-0.2.2-py3.6.egg-info/zip-safe",
+    "Lib/site-packages/pyasn1_modules/__init__.py",
+    "Lib/site-packages/pyasn1_modules/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/pyasn1_modules/__pycache__/pem.cpython-36.pyc",
+    "Lib/site-packages/pyasn1_modules/__pycache__/rfc1155.cpython-36.pyc",
+    "Lib/site-packages/pyasn1_modules/__pycache__/rfc1157.cpython-36.pyc",
+    "Lib/site-packages/pyasn1_modules/__pycache__/rfc1901.cpython-36.pyc",
+    "Lib/site-packages/pyasn1_modules/__pycache__/rfc1902.cpython-36.pyc",
+    "Lib/site-packages/pyasn1_modules/__pycache__/rfc1905.cpython-36.pyc",
+    "Lib/site-packages/pyasn1_modules/__pycache__/rfc2251.cpython-36.pyc",
+    "Lib/site-packages/pyasn1_modules/__pycache__/rfc2314.cpython-36.pyc",
+    "Lib/site-packages/pyasn1_modules/__pycache__/rfc2315.cpython-36.pyc",
+    "Lib/site-packages/pyasn1_modules/__pycache__/rfc2437.cpython-36.pyc",
+    "Lib/site-packages/pyasn1_modules/__pycache__/rfc2459.cpython-36.pyc",
+    "Lib/site-packages/pyasn1_modules/__pycache__/rfc2511.cpython-36.pyc",
+    "Lib/site-packages/pyasn1_modules/__pycache__/rfc2560.cpython-36.pyc",
+    "Lib/site-packages/pyasn1_modules/__pycache__/rfc2986.cpython-36.pyc",
+    "Lib/site-packages/pyasn1_modules/__pycache__/rfc3279.cpython-36.pyc",
+    "Lib/site-packages/pyasn1_modules/__pycache__/rfc3280.cpython-36.pyc",
+    "Lib/site-packages/pyasn1_modules/__pycache__/rfc3281.cpython-36.pyc",
+    "Lib/site-packages/pyasn1_modules/__pycache__/rfc3412.cpython-36.pyc",
+    "Lib/site-packages/pyasn1_modules/__pycache__/rfc3414.cpython-36.pyc",
+    "Lib/site-packages/pyasn1_modules/__pycache__/rfc3447.cpython-36.pyc",
+    "Lib/site-packages/pyasn1_modules/__pycache__/rfc3852.cpython-36.pyc",
+    "Lib/site-packages/pyasn1_modules/__pycache__/rfc4210.cpython-36.pyc",
+    "Lib/site-packages/pyasn1_modules/__pycache__/rfc4211.cpython-36.pyc",
+    "Lib/site-packages/pyasn1_modules/__pycache__/rfc5208.cpython-36.pyc",
+    "Lib/site-packages/pyasn1_modules/__pycache__/rfc5280.cpython-36.pyc",
+    "Lib/site-packages/pyasn1_modules/__pycache__/rfc5652.cpython-36.pyc",
+    "Lib/site-packages/pyasn1_modules/__pycache__/rfc6402.cpython-36.pyc",
+    "Lib/site-packages/pyasn1_modules/pem.py",
+    "Lib/site-packages/pyasn1_modules/rfc1155.py",
+    "Lib/site-packages/pyasn1_modules/rfc1157.py",
+    "Lib/site-packages/pyasn1_modules/rfc1901.py",
+    "Lib/site-packages/pyasn1_modules/rfc1902.py",
+    "Lib/site-packages/pyasn1_modules/rfc1905.py",
+    "Lib/site-packages/pyasn1_modules/rfc2251.py",
+    "Lib/site-packages/pyasn1_modules/rfc2314.py",
+    "Lib/site-packages/pyasn1_modules/rfc2315.py",
+    "Lib/site-packages/pyasn1_modules/rfc2437.py",
+    "Lib/site-packages/pyasn1_modules/rfc2459.py",
+    "Lib/site-packages/pyasn1_modules/rfc2511.py",
+    "Lib/site-packages/pyasn1_modules/rfc2560.py",
+    "Lib/site-packages/pyasn1_modules/rfc2986.py",
+    "Lib/site-packages/pyasn1_modules/rfc3279.py",
+    "Lib/site-packages/pyasn1_modules/rfc3280.py",
+    "Lib/site-packages/pyasn1_modules/rfc3281.py",
+    "Lib/site-packages/pyasn1_modules/rfc3412.py",
+    "Lib/site-packages/pyasn1_modules/rfc3414.py",
+    "Lib/site-packages/pyasn1_modules/rfc3447.py",
+    "Lib/site-packages/pyasn1_modules/rfc3852.py",
+    "Lib/site-packages/pyasn1_modules/rfc4210.py",
+    "Lib/site-packages/pyasn1_modules/rfc4211.py",
+    "Lib/site-packages/pyasn1_modules/rfc5208.py",
+    "Lib/site-packages/pyasn1_modules/rfc5280.py",
+    "Lib/site-packages/pyasn1_modules/rfc5652.py",
+    "Lib/site-packages/pyasn1_modules/rfc6402.py"
+  ],
+  "fn": "pyasn1-modules-0.2.2-py36_0.tar.bz2",
+  "license": "BSD 2-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\ProgramData\\Miniconda3\\pkgs\\pyasn1-modules-0.2.2-py36_0",
+    "type": 1
+  },
+  "md5": "7be41d2a7c688153a5d8974cdcad550e",
+  "name": "pyasn1-modules",
+  "package_tarball_full_path": "C:\\ProgramData\\Miniconda3\\pkgs\\pyasn1-modules-0.2.2-py36_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/pyasn1_modules-0.2.2-py3.6.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "56b1cc0373291a4220c55e2f36dcd1a1ce448ef1a511432a8226ab8977062a94",
+        "sha256_in_prefix": "56b1cc0373291a4220c55e2f36dcd1a1ce448ef1a511432a8226ab8977062a94",
+        "size_in_bytes": 1750
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules-0.2.2-py3.6.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "5757e2416f399fb00795139f6526dcf4237cefc9613f289bddc8ee8c8fbfbd56",
+        "sha256_in_prefix": "5757e2416f399fb00795139f6526dcf4237cefc9613f289bddc8ee8c8fbfbd56",
+        "size_in_bytes": 1575
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules-0.2.2-py3.6.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules-0.2.2-py3.6.egg-info/requires.txt",
+        "path_type": "hardlink",
+        "sha256": "45877ce52261f045f0c41e2ae29d024a2f2e758a257a01231915ced616193daa",
+        "sha256_in_prefix": "45877ce52261f045f0c41e2ae29d024a2f2e758a257a01231915ced616193daa",
+        "size_in_bytes": 21
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules-0.2.2-py3.6.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "7bf0288df1350cd63833c3fd2c04bbaa1f05c7778e9a8be86ea92becd123960e",
+        "sha256_in_prefix": "7bf0288df1350cd63833c3fd2c04bbaa1f05c7778e9a8be86ea92becd123960e",
+        "size_in_bytes": 15
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules-0.2.2-py3.6.egg-info/zip-safe",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "a489fcd852fb27b7ea2dfeabd1e79c4bbba2fb2cea935f20bf3f2e2294fd704b",
+        "sha256_in_prefix": "a489fcd852fb27b7ea2dfeabd1e79c4bbba2fb2cea935f20bf3f2e2294fd704b",
+        "size_in_bytes": 65
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "67ed3f2730f991c8f3a6c064594176bdd8e6488b14ce606daf8ce0d039afd46e",
+        "sha256_in_prefix": "67ed3f2730f991c8f3a6c064594176bdd8e6488b14ce606daf8ce0d039afd46e",
+        "size_in_bytes": 148
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/__pycache__/pem.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "26c0c0202cfe837fc272877bc9af71728d662b3e35492691e72691d1677f513e",
+        "sha256_in_prefix": "26c0c0202cfe837fc272877bc9af71728d662b3e35492691e72691d1677f513e",
+        "size_in_bytes": 2074
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/__pycache__/rfc1155.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "0ebb06dc449f20bf2f84fc30b98a5ced67b444f8915e176ef47b717580cef146",
+        "sha256_in_prefix": "0ebb06dc449f20bf2f84fc30b98a5ced67b444f8915e176ef47b717580cef146",
+        "size_in_bytes": 2845
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/__pycache__/rfc1157.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "6d15b9eda53aca3b64480f6d14c3b30a7ab14d428dfe0f4790c7112d128b387b",
+        "sha256_in_prefix": "6d15b9eda53aca3b64480f6d14c3b30a7ab14d428dfe0f4790c7112d128b387b",
+        "size_in_bytes": 4167
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/__pycache__/rfc1901.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "81739ef138e316e6c5dcb4cbe77753da79d917fab3c4b49f97b4e5baa1c35806",
+        "sha256_in_prefix": "81739ef138e316e6c5dcb4cbe77753da79d917fab3c4b49f97b4e5baa1c35806",
+        "size_in_bytes": 622
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/__pycache__/rfc1902.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "2d572b00ebfe7aeaf537b4eb5790078caa7c8695bd2746b1365c7b4212a53d90",
+        "sha256_in_prefix": "2d572b00ebfe7aeaf537b4eb5790078caa7c8695bd2746b1365c7b4212a53d90",
+        "size_in_bytes": 3952
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/__pycache__/rfc1905.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "27cdd90d3a782f922b5a540414173149b854df29731eeec07f17fc3626a28b2d",
+        "sha256_in_prefix": "27cdd90d3a782f922b5a540414173149b854df29731eeec07f17fc3626a28b2d",
+        "size_in_bytes": 4902
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/__pycache__/rfc2251.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "edbf56936e472d42a4421c6b1eee79c87d2ed6de69bdbac2e7d8d2b29b9eaf13",
+        "sha256_in_prefix": "edbf56936e472d42a4421c6b1eee79c87d2ed6de69bdbac2e7d8d2b29b9eaf13",
+        "size_in_bytes": 20437
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/__pycache__/rfc2314.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "c5abf21f5c73d51802684771cfa9ec4c0cd9516bef4bc2aa1717811514e13319",
+        "sha256_in_prefix": "c5abf21f5c73d51802684771cfa9ec4c0cd9516bef4bc2aa1717811514e13319",
+        "size_in_bytes": 1571
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/__pycache__/rfc2315.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "734e3b21b6dce6fe5a593b754914465b16892375e9af61f5ab7ffca1a0b68223",
+        "sha256_in_prefix": "734e3b21b6dce6fe5a593b754914465b16892375e9af61f5ab7ffca1a0b68223",
+        "size_in_bytes": 9801
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/__pycache__/rfc2437.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "28779284e27f519352e2502bd28a5b240071ee721ca22d2b30625aed905f7d20",
+        "sha256_in_prefix": "28779284e27f519352e2502bd28a5b240071ee721ca22d2b30625aed905f7d20",
+        "size_in_bytes": 2136
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/__pycache__/rfc2459.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "05a5b57c0ff2b0c720f18864f3237f0776742a1f963ef6dc836d0dd30b5be31d",
+        "sha256_in_prefix": "05a5b57c0ff2b0c720f18864f3237f0776742a1f963ef6dc836d0dd30b5be31d",
+        "size_in_bytes": 42163
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/__pycache__/rfc2511.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "342c724a59335f6d8dc0fb25e2c1271641df1cc587d1b628acf77146086eb692",
+        "sha256_in_prefix": "342c724a59335f6d8dc0fb25e2c1271641df1cc587d1b628acf77146086eb692",
+        "size_in_bytes": 8945
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/__pycache__/rfc2560.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "359ac39eff1b1d2204cefd7765b3cec24dc96329141a29dd01402e73412c786c",
+        "sha256_in_prefix": "359ac39eff1b1d2204cefd7765b3cec24dc96329141a29dd01402e73412c786c",
+        "size_in_bytes": 7822
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/__pycache__/rfc2986.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "5c62e0ef1e671649122c07b9f726286198ed99a4e26a843dd9dde7d2f3ea741f",
+        "sha256_in_prefix": "5c62e0ef1e671649122c07b9f726286198ed99a4e26a843dd9dde7d2f3ea741f",
+        "size_in_bytes": 3163
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/__pycache__/rfc3279.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "d9c94372510b5f439f8656d9b2e615d4eab6b5c13c9a81dd508f035d5f6c793f",
+        "sha256_in_prefix": "d9c94372510b5f439f8656d9b2e615d4eab6b5c13c9a81dd508f035d5f6c793f",
+        "size_in_bytes": 6338
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/__pycache__/rfc3280.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "bd067b47caa9db93976fcb544d77a145a1aa01d6d19a0c32d007a28284f11a23",
+        "sha256_in_prefix": "bd067b47caa9db93976fcb544d77a145a1aa01d6d19a0c32d007a28284f11a23",
+        "size_in_bytes": 35070
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/__pycache__/rfc3281.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "c05b8e0c64278eee9c1dd83c51e3666afe3b599f75b7bdfc22bd3f8a08831ec1",
+        "sha256_in_prefix": "c05b8e0c64278eee9c1dd83c51e3666afe3b599f75b7bdfc22bd3f8a08831ec1",
+        "size_in_bytes": 7387
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/__pycache__/rfc3412.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "0cec7b8b6fa00693ccd2658210015dbfb460cd9e8c94d285a22d70a5bfc3f6f2",
+        "sha256_in_prefix": "0cec7b8b6fa00693ccd2658210015dbfb460cd9e8c94d285a22d70a5bfc3f6f2",
+        "size_in_bytes": 1669
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/__pycache__/rfc3414.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "ec5ca5e06ccec546c181d65ac1dc89dc3b262d13e0a02cf0aa79ed44e41af662",
+        "sha256_in_prefix": "ec5ca5e06ccec546c181d65ac1dc89dc3b262d13e0a02cf0aa79ed44e41af662",
+        "size_in_bytes": 871
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/__pycache__/rfc3447.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "42e301af471a8171768d4fcc98eddb9b746bd75e9e7f0b83d570bfc4718cf877",
+        "sha256_in_prefix": "42e301af471a8171768d4fcc98eddb9b746bd75e9e7f0b83d570bfc4718cf877",
+        "size_in_bytes": 1385
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/__pycache__/rfc3852.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "1df5410daf8eb6bb26bf246e44df84e552f1e7a4471f15840830bf835d42698e",
+        "sha256_in_prefix": "1df5410daf8eb6bb26bf246e44df84e552f1e7a4471f15840830bf835d42698e",
+        "size_in_bytes": 16415
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/__pycache__/rfc4210.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "14efedab60d457283036f1471048f8a59dfe14658becdd006b4129d1ca838148",
+        "sha256_in_prefix": "14efedab60d457283036f1471048f8a59dfe14658becdd006b4129d1ca838148",
+        "size_in_bytes": 23594
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/__pycache__/rfc4211.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "c11fbc355e8ec8a6ec88bf8bc4f32ed5704b5428e21cc4b858e4a43c9313b165",
+        "sha256_in_prefix": "c11fbc355e8ec8a6ec88bf8bc4f32ed5704b5428e21cc4b858e4a43c9313b165",
+        "size_in_bytes": 8950
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/__pycache__/rfc5208.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "e362800f0cada374cf8fe857f951c8b45580ac60096faf6d209d12e5db33b1a4",
+        "sha256_in_prefix": "e362800f0cada374cf8fe857f951c8b45580ac60096faf6d209d12e5db33b1a4",
+        "size_in_bytes": 1951
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/__pycache__/rfc5280.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "891a7480d03c8e6190880f44b9ba3420b100d159b0b96212fe8d6e0911006c03",
+        "sha256_in_prefix": "891a7480d03c8e6190880f44b9ba3420b100d159b0b96212fe8d6e0911006c03",
+        "size_in_bytes": 36077
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/__pycache__/rfc5652.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "5e7ce8448ab8017a32154b37bbe2c83a824ad739f2ccd89be8b3a1a3cab5f63b",
+        "sha256_in_prefix": "5e7ce8448ab8017a32154b37bbe2c83a824ad739f2ccd89be8b3a1a3cab5f63b",
+        "size_in_bytes": 16415
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/__pycache__/rfc6402.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "9fa4eb5509b589380b20700936577906a692851f123900c5a1475d2f0e667fd5",
+        "sha256_in_prefix": "9fa4eb5509b589380b20700936577906a692851f123900c5a1475d2f0e667fd5",
+        "size_in_bytes": 12080
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/pem.py",
+        "path_type": "hardlink",
+        "sha256": "25e3de4f15d68902a84171d2c5597ed811cda0778b415d034e78dbf0e79a6674",
+        "sha256_in_prefix": "25e3de4f15d68902a84171d2c5597ed811cda0778b415d034e78dbf0e79a6674",
+        "size_in_bytes": 2058
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/rfc1155.py",
+        "path_type": "hardlink",
+        "sha256": "502a31f2ecc09fbaf5f6cf9bc5723077d694b8dd363caf29783c4939d291f3d6",
+        "sha256_in_prefix": "502a31f2ecc09fbaf5f6cf9bc5723077d694b8dd363caf29783c4939d291f3d6",
+        "size_in_bytes": 2683
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/rfc1157.py",
+        "path_type": "hardlink",
+        "sha256": "3de53f7a6c45fe8fe16dce56d4d9b17ac9a3373a9b08e0b188991e7de70ee6f9",
+        "sha256_in_prefix": "3de53f7a6c45fe8fe16dce56d4d9b17ac9a3373a9b08e0b188991e7de70ee6f9",
+        "size_in_bytes": 3554
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/rfc1901.py",
+        "path_type": "hardlink",
+        "sha256": "00f33ed92219d2009b1f28a3916e2b288b4d4bf87d8ae76d98035e559983f081",
+        "sha256_in_prefix": "00f33ed92219d2009b1f28a3916e2b288b4d4bf87d8ae76d98035e559983f081",
+        "size_in_bytes": 646
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/rfc1902.py",
+        "path_type": "hardlink",
+        "sha256": "f8308d46ac3e95c2c90216187fdf176839b64e6268377601d675b7435bc5ad27",
+        "sha256_in_prefix": "f8308d46ac3e95c2c90216187fdf176839b64e6268377601d675b7435bc5ad27",
+        "size_in_bytes": 3705
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/rfc1905.py",
+        "path_type": "hardlink",
+        "sha256": "081d857c662ac1d36c8e97d8744e3019ba8396a0a4382ca3d52cc810061b9ffe",
+        "sha256_in_prefix": "081d857c662ac1d36c8e97d8744e3019ba8396a0a4382ca3d52cc810061b9ffe",
+        "size_in_bytes": 4837
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/rfc2251.py",
+        "path_type": "hardlink",
+        "sha256": "5f46074867642587f76db50182e1400422510b9d0fb4a01b70cf089f60e01fec",
+        "sha256_in_prefix": "5f46074867642587f76db50182e1400422510b9d0fb4a01b70cf089f60e01fec",
+        "size_in_bytes": 26931
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/rfc2314.py",
+        "path_type": "hardlink",
+        "sha256": "4be08501669ff8cb67a0381b6a34445149e72671a2fc4f3e70dfa5300e45892f",
+        "sha256_in_prefix": "4be08501669ff8cb67a0381b6a34445149e72671a2fc4f3e70dfa5300e45892f",
+        "size_in_bytes": 1313
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/rfc2315.py",
+        "path_type": "hardlink",
+        "sha256": "279b20232e02ef8d5a736ff3a7c6f75ff1bd135c9617583ac39e12c946e4e7fa",
+        "sha256_in_prefix": "279b20232e02ef8d5a736ff3a7c6f75ff1bd135c9617583ac39e12c946e4e7fa",
+        "size_in_bytes": 9650
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/rfc2437.py",
+        "path_type": "hardlink",
+        "sha256": "ef7f77064fdaff7b1a98012daf2839e286dda3e38813f2650b78e02de36bf8c4",
+        "sha256_in_prefix": "ef7f77064fdaff7b1a98012daf2839e286dda3e38813f2650b78e02de36bf8c4",
+        "size_in_bytes": 2623
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/rfc2459.py",
+        "path_type": "hardlink",
+        "sha256": "0ab636409f48e172fd72c8a01980b474a4cf4fb11a6372a12862bdb6b4f78ce2",
+        "sha256_in_prefix": "0ab636409f48e172fd72c8a01980b474a4cf4fb11a6372a12862bdb6b4f78ce2",
+        "size_in_bytes": 50019
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/rfc2511.py",
+        "path_type": "hardlink",
+        "sha256": "97b73a8fd094b977bef5a814a9c90794320f0ae794714533f724e5b26372173d",
+        "sha256_in_prefix": "97b73a8fd094b977bef5a814a9c90794320f0ae794714533f724e5b26372173d",
+        "size_in_bytes": 10368
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/rfc2560.py",
+        "path_type": "hardlink",
+        "sha256": "74e813a21786f785b0051a735209c72a3209892e241611743fe0ebc22c941629",
+        "sha256_in_prefix": "74e813a21786f785b0051a735209c72a3209892e241611743fe0ebc22c941629",
+        "size_in_bytes": 8406
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/rfc2986.py",
+        "path_type": "hardlink",
+        "sha256": "6a64786213d62db616d147b931a9461991f573a115affff3a6517c245ccf5082",
+        "sha256_in_prefix": "6a64786213d62db616d147b931a9461991f573a115affff3a6517c245ccf5082",
+        "size_in_bytes": 3105
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/rfc3279.py",
+        "path_type": "hardlink",
+        "sha256": "44181247fca8171c87c77861a9218fa7469e93b88f0d01431187dd4c8b212e56",
+        "sha256_in_prefix": "44181247fca8171c87c77861a9218fa7469e93b88f0d01431187dd4c8b212e56",
+        "size_in_bytes": 5972
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/rfc3280.py",
+        "path_type": "hardlink",
+        "sha256": "186dffc4f518e4e23791085dbf488b30bc3906b0ea07276e7172759c3238935b",
+        "sha256_in_prefix": "186dffc4f518e4e23791085dbf488b30bc3906b0ea07276e7172759c3238935b",
+        "size_in_bytes": 46668
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/rfc3281.py",
+        "path_type": "hardlink",
+        "sha256": "fb2385c61ded9eadf8450a6789284187ec5f6d91b17919ccbf59e39f4fd84b57",
+        "sha256_in_prefix": "fb2385c61ded9eadf8450a6789284187ec5f6d91b17919ccbf59e39f4fd84b57",
+        "size_in_bytes": 9866
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/rfc3412.py",
+        "path_type": "hardlink",
+        "sha256": "58f73c7505564edb6243878e646c078af97aec402455e4f64571067e71f1b0d4",
+        "sha256_in_prefix": "58f73c7505564edb6243878e646c078af97aec402455e4f64571067e71f1b0d4",
+        "size_in_bytes": 1956
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/rfc3414.py",
+        "path_type": "hardlink",
+        "sha256": "427382745301d7a9ecb748b2a10e065c81c62b362a390cbb360b2aca2158f50d",
+        "sha256_in_prefix": "427382745301d7a9ecb748b2a10e065c81c62b362a390cbb360b2aca2158f50d",
+        "size_in_bytes": 1167
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/rfc3447.py",
+        "path_type": "hardlink",
+        "sha256": "da0181fd5bbcd79e7437aa5eeb64adecf4209076247b87fcc8d39d938b834019",
+        "sha256_in_prefix": "da0181fd5bbcd79e7437aa5eeb64adecf4209076247b87fcc8d39d938b834019",
+        "size_in_bytes": 1611
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/rfc3852.py",
+        "path_type": "hardlink",
+        "sha256": "907205b9377df8fbcf0367be9f3cc73c7987dbfefc5b5ef55fe54dfabf1d07f3",
+        "sha256_in_prefix": "907205b9377df8fbcf0367be9f3cc73c7987dbfefc5b5ef55fe54dfabf1d07f3",
+        "size_in_bytes": 20119
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/rfc4210.py",
+        "path_type": "hardlink",
+        "sha256": "aafc4bfe6ce769b0863935c8dc89441dc9cc91cb46adf450902af88ec4181a27",
+        "sha256_in_prefix": "aafc4bfe6ce769b0863935c8dc89441dc9cc91cb46adf450902af88ec4181a27",
+        "size_in_bytes": 28383
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/rfc4211.py",
+        "path_type": "hardlink",
+        "sha256": "8aef57834a2a89400d49e17fbfffc16e1c33ee5bb1c3f6429fcb8381f54bb60c",
+        "sha256_in_prefix": "8aef57834a2a89400d49e17fbfffc16e1c33ee5bb1c3f6429fcb8381f54bb60c",
+        "size_in_bytes": 12116
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/rfc5208.py",
+        "path_type": "hardlink",
+        "sha256": "3554a534943b4de6a31303bad0d269c808747172d4e1bf0a4f13926a11207073",
+        "sha256_in_prefix": "3554a534943b4de6a31303bad0d269c808747172d4e1bf0a4f13926a11207073",
+        "size_in_bytes": 1432
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/rfc5280.py",
+        "path_type": "hardlink",
+        "sha256": "308fa93e1b6bd3f45f565eda974a8f062566d5e557960b2522abafd92b15a343",
+        "sha256_in_prefix": "308fa93e1b6bd3f45f565eda974a8f062566d5e557960b2522abafd92b15a343",
+        "size_in_bytes": 49505
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/rfc5652.py",
+        "path_type": "hardlink",
+        "sha256": "efb5704a852aba4b22736db3e49a7b520b9b9468fae70974bef2021c3430a589",
+        "sha256_in_prefix": "efb5704a852aba4b22736db3e49a7b520b9b9468fae70974bef2021c3430a589",
+        "size_in_bytes": 20119
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1_modules/rfc6402.py",
+        "path_type": "hardlink",
+        "sha256": "02de1b05d93560dca366273bf63b14f390f5eba4636f5f6972c36dcb1185d45d",
+        "sha256_in_prefix": "02de1b05d93560dca366273bf63b14f390f5eba4636f5f6972c36dcb1185d45d",
+        "size_in_bytes": 15025
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "None",
+  "size": 88524,
+  "subdir": "win-64",
+  "timestamp": 1530557478104,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pyasn1-modules-0.2.2-py36_0.tar.bz2",
+  "version": "0.2.2"
+}

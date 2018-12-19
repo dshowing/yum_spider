@@ -1,0 +1,85 @@
+{
+  "arch": "x86_64",
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.6,<3.7.0a0"
+  ],
+  "extracted_package_dir": "C:\\ProgramData\\Miniconda3\\pkgs\\atomicwrites-1.2.1-py36_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/atomicwrites-1.2.1-py3.6.egg-info/PKG-INFO",
+    "Lib/site-packages/atomicwrites-1.2.1-py3.6.egg-info/SOURCES.txt",
+    "Lib/site-packages/atomicwrites-1.2.1-py3.6.egg-info/dependency_links.txt",
+    "Lib/site-packages/atomicwrites-1.2.1-py3.6.egg-info/top_level.txt",
+    "Lib/site-packages/atomicwrites/__init__.py",
+    "Lib/site-packages/atomicwrites/__pycache__/__init__.cpython-36.pyc"
+  ],
+  "fn": "atomicwrites-1.2.1-py36_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\ProgramData\\Miniconda3\\pkgs\\atomicwrites-1.2.1-py36_0",
+    "type": 1
+  },
+  "md5": "fb78876921ef38d846aecfeb9a19c5de",
+  "name": "atomicwrites",
+  "package_tarball_full_path": "C:\\ProgramData\\Miniconda3\\pkgs\\atomicwrites-1.2.1-py36_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/atomicwrites-1.2.1-py3.6.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "5354304aad4f78301ee05efac88876b6c9e7d339b98f0741f1da1a17c1a683de",
+        "sha256_in_prefix": "5354304aad4f78301ee05efac88876b6c9e7d339b98f0741f1da1a17c1a683de",
+        "size_in_bytes": 6672
+      },
+      {
+        "_path": "Lib/site-packages/atomicwrites-1.2.1-py3.6.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "e70a4e66729a5606151fc6caae62989b22701c836a9fbf1f9176763041c16959",
+        "sha256_in_prefix": "e70a4e66729a5606151fc6caae62989b22701c836a9fbf1f9176763041c16959",
+        "size_in_bytes": 301
+      },
+      {
+        "_path": "Lib/site-packages/atomicwrites-1.2.1-py3.6.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "Lib/site-packages/atomicwrites-1.2.1-py3.6.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "92ceb8cca55492b97666bacfd38e82b32b5795219ff202c6f887285e93727a87",
+        "sha256_in_prefix": "92ceb8cca55492b97666bacfd38e82b32b5795219ff202c6f887285e93727a87",
+        "size_in_bytes": 13
+      },
+      {
+        "_path": "Lib/site-packages/atomicwrites/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e99fd5a033165d8a870e730383a30199798cc5fd31194cec120b616d8f59c71c",
+        "sha256_in_prefix": "e99fd5a033165d8a870e730383a30199798cc5fd31194cec120b616d8f59c71c",
+        "size_in_bytes": 6428
+      },
+      {
+        "_path": "Lib/site-packages/atomicwrites/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "d6d4d382bc8e3f230162ee462525310164ec0e0785b1c901bfe46599a33138a6",
+        "sha256_in_prefix": "d6d4d382bc8e3f230162ee462525310164ec0e0785b1c901bfe46599a33138a6",
+        "size_in_bytes": 6253
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "None",
+  "size": 11557,
+  "subdir": "win-64",
+  "timestamp": 1536086244482,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/atomicwrites-1.2.1-py36_0.tar.bz2",
+  "version": "1.2.1"
+}

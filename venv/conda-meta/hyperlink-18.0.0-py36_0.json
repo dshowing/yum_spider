@@ -1,0 +1,230 @@
+{
+  "arch": "x86_64",
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "idna >=2.5",
+    "python >=3.6,<3.7.0a0"
+  ],
+  "extracted_package_dir": "C:\\ProgramData\\Miniconda3\\pkgs\\hyperlink-18.0.0-py36_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/hyperlink-18.0.0-py3.6.egg-info/PKG-INFO",
+    "Lib/site-packages/hyperlink-18.0.0-py3.6.egg-info/SOURCES.txt",
+    "Lib/site-packages/hyperlink-18.0.0-py3.6.egg-info/dependency_links.txt",
+    "Lib/site-packages/hyperlink-18.0.0-py3.6.egg-info/not-zip-safe",
+    "Lib/site-packages/hyperlink-18.0.0-py3.6.egg-info/requires.txt",
+    "Lib/site-packages/hyperlink-18.0.0-py3.6.egg-info/top_level.txt",
+    "Lib/site-packages/hyperlink/__init__.py",
+    "Lib/site-packages/hyperlink/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/hyperlink/__pycache__/_url.cpython-36.pyc",
+    "Lib/site-packages/hyperlink/_url.py",
+    "Lib/site-packages/hyperlink/test/__init__.py",
+    "Lib/site-packages/hyperlink/test/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/hyperlink/test/__pycache__/common.cpython-36.pyc",
+    "Lib/site-packages/hyperlink/test/__pycache__/test_common.cpython-36.pyc",
+    "Lib/site-packages/hyperlink/test/__pycache__/test_decoded_url.cpython-36.pyc",
+    "Lib/site-packages/hyperlink/test/__pycache__/test_parse.cpython-36.pyc",
+    "Lib/site-packages/hyperlink/test/__pycache__/test_scheme_registration.cpython-36.pyc",
+    "Lib/site-packages/hyperlink/test/__pycache__/test_url.cpython-36.pyc",
+    "Lib/site-packages/hyperlink/test/common.py",
+    "Lib/site-packages/hyperlink/test/test_common.py",
+    "Lib/site-packages/hyperlink/test/test_decoded_url.py",
+    "Lib/site-packages/hyperlink/test/test_parse.py",
+    "Lib/site-packages/hyperlink/test/test_scheme_registration.py",
+    "Lib/site-packages/hyperlink/test/test_url.py"
+  ],
+  "fn": "hyperlink-18.0.0-py36_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\ProgramData\\Miniconda3\\pkgs\\hyperlink-18.0.0-py36_0",
+    "type": 1
+  },
+  "md5": "cc5ac74daf46743ce26e3df94f38d21d",
+  "name": "hyperlink",
+  "package_tarball_full_path": "C:\\ProgramData\\Miniconda3\\pkgs\\hyperlink-18.0.0-py36_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/hyperlink-18.0.0-py3.6.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "c8468a6c499e2847dbd0eb51615248433bfc6f8be7b4392b00c782d87da8eab9",
+        "sha256_in_prefix": "c8468a6c499e2847dbd0eb51615248433bfc6f8be7b4392b00c782d87da8eab9",
+        "size_in_bytes": 1188
+      },
+      {
+        "_path": "Lib/site-packages/hyperlink-18.0.0-py3.6.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "9be0f2b20b164ad8c6c979a5de98cba657d1c869b27d78b115b7b88068943266",
+        "sha256_in_prefix": "9be0f2b20b164ad8c6c979a5de98cba657d1c869b27d78b115b7b88068943266",
+        "size_in_bytes": 751
+      },
+      {
+        "_path": "Lib/site-packages/hyperlink-18.0.0-py3.6.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "Lib/site-packages/hyperlink-18.0.0-py3.6.egg-info/not-zip-safe",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "Lib/site-packages/hyperlink-18.0.0-py3.6.egg-info/requires.txt",
+        "path_type": "hardlink",
+        "sha256": "03e09b1d7f03a0e1116a4da73a6c2872958bcf50536ac7c16f274edf6e7182db",
+        "sha256_in_prefix": "03e09b1d7f03a0e1116a4da73a6c2872958bcf50536ac7c16f274edf6e7182db",
+        "size_in_bytes": 10
+      },
+      {
+        "_path": "Lib/site-packages/hyperlink-18.0.0-py3.6.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "a8ac7d14653fcf10fd986aa216095e35e8df3b80303d8eddba140f699df453f3",
+        "sha256_in_prefix": "a8ac7d14653fcf10fd986aa216095e35e8df3b80303d8eddba140f699df453f3",
+        "size_in_bytes": 10
+      },
+      {
+        "_path": "Lib/site-packages/hyperlink/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "385a86ffc8434f2c9cf0c9a1551f8bc972fe692873fd8f5083df3fffebdc7d31",
+        "sha256_in_prefix": "385a86ffc8434f2c9cf0c9a1551f8bc972fe692873fd8f5083df3fffebdc7d31",
+        "size_in_bytes": 302
+      },
+      {
+        "_path": "Lib/site-packages/hyperlink/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "1cf78bc5805f2551d7d8bcdbac71a3ebd285f743901f2a5257361f0e9594b874",
+        "sha256_in_prefix": "1cf78bc5805f2551d7d8bcdbac71a3ebd285f743901f2a5257361f0e9594b874",
+        "size_in_bytes": 329
+      },
+      {
+        "_path": "Lib/site-packages/hyperlink/__pycache__/_url.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "341fca32e3b47d566203fdae783d61b03424deeb5b79c85fcbeae7ae7bdf7c6b",
+        "sha256_in_prefix": "341fca32e3b47d566203fdae783d61b03424deeb5b79c85fcbeae7ae7bdf7c6b",
+        "size_in_bytes": 65697
+      },
+      {
+        "_path": "Lib/site-packages/hyperlink/_url.py",
+        "path_type": "hardlink",
+        "sha256": "a66d9ed14ce98ab40f61c7fd8c4b7d8748cbe6456a8c76b04113414522fbae3c",
+        "sha256_in_prefix": "a66d9ed14ce98ab40f61c7fd8c4b7d8748cbe6456a8c76b04113414522fbae3c",
+        "size_in_bytes": 69807
+      },
+      {
+        "_path": "Lib/site-packages/hyperlink/test/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/hyperlink/test/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "2c6071238f1ebc8ef5de821587ed982a9e7226492901ff24573654fd66b2956f",
+        "sha256_in_prefix": "2c6071238f1ebc8ef5de821587ed982a9e7226492901ff24573654fd66b2956f",
+        "size_in_bytes": 127
+      },
+      {
+        "_path": "Lib/site-packages/hyperlink/test/__pycache__/common.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "395defe36ca5380874b861617ae95dd528a01a665ec32bdbfce62fded692a1ac",
+        "sha256_in_prefix": "395defe36ca5380874b861617ae95dd528a01a665ec32bdbfce62fded692a1ac",
+        "size_in_bytes": 2470
+      },
+      {
+        "_path": "Lib/site-packages/hyperlink/test/__pycache__/test_common.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "31ea0c4459d074039518cac6a03adbd2859d94001e304d650b321550dfe88efc",
+        "sha256_in_prefix": "31ea0c4459d074039518cac6a03adbd2859d94001e304d650b321550dfe88efc",
+        "size_in_bytes": 4384
+      },
+      {
+        "_path": "Lib/site-packages/hyperlink/test/__pycache__/test_decoded_url.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "83cab4864ccad1ad605fdd441d6fbf04c60d56433b4e6e72c40a46b1ae869e16",
+        "sha256_in_prefix": "83cab4864ccad1ad605fdd441d6fbf04c60d56433b4e6e72c40a46b1ae869e16",
+        "size_in_bytes": 4798
+      },
+      {
+        "_path": "Lib/site-packages/hyperlink/test/__pycache__/test_parse.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "3a278931b2d86aae4d172195fdf4ec7c40088867b98fc607666cd04c5e5b249f",
+        "sha256_in_prefix": "3a278931b2d86aae4d172195fdf4ec7c40088867b98fc607666cd04c5e5b249f",
+        "size_in_bytes": 1168
+      },
+      {
+        "_path": "Lib/site-packages/hyperlink/test/__pycache__/test_scheme_registration.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "497c0f5f0016c665556f45599d4e525fa43ed120e7654ec3fa0f647aa04be9a1",
+        "sha256_in_prefix": "497c0f5f0016c665556f45599d4e525fa43ed120e7654ec3fa0f647aa04be9a1",
+        "size_in_bytes": 3221
+      },
+      {
+        "_path": "Lib/site-packages/hyperlink/test/__pycache__/test_url.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "8f0a32cf2a75df7c8776980ffdd644728bfdf7142e539df6f49c9ad613931ae7",
+        "sha256_in_prefix": "8f0a32cf2a75df7c8776980ffdd644728bfdf7142e539df6f49c9ad613931ae7",
+        "size_in_bytes": 38422
+      },
+      {
+        "_path": "Lib/site-packages/hyperlink/test/common.py",
+        "path_type": "hardlink",
+        "sha256": "7d9d202d39440b56059e5ca7f0773bfda24908419a74bd46970dc156d22f3a44",
+        "sha256_in_prefix": "7d9d202d39440b56059e5ca7f0773bfda24908419a74bd46970dc156d22f3a44",
+        "size_in_bytes": 2108
+      },
+      {
+        "_path": "Lib/site-packages/hyperlink/test/test_common.py",
+        "path_type": "hardlink",
+        "sha256": "eb0888e538c260ed1cc89c0f5d22f74c54e591a4b219819e9b9fee18837eea9f",
+        "sha256_in_prefix": "eb0888e538c260ed1cc89c0f5d22f74c54e591a4b219819e9b9fee18837eea9f",
+        "size_in_bytes": 3399
+      },
+      {
+        "_path": "Lib/site-packages/hyperlink/test/test_decoded_url.py",
+        "path_type": "hardlink",
+        "sha256": "b9cbaa2d16cb9da2727933064844f66df213672a086c2cdd2c8ac3cfd21412a9",
+        "sha256_in_prefix": "b9cbaa2d16cb9da2727933064844f66df213672a086c2cdd2c8ac3cfd21412a9",
+        "size_in_bytes": 5416
+      },
+      {
+        "_path": "Lib/site-packages/hyperlink/test/test_parse.py",
+        "path_type": "hardlink",
+        "sha256": "1ce17b36cdad1a75d40eb5f98bc6a9c9511f9eab22b82b47bb6ffdbae798e718",
+        "sha256_in_prefix": "1ce17b36cdad1a75d40eb5f98bc6a9c9511f9eab22b82b47bb6ffdbae798e718",
+        "size_in_bytes": 1081
+      },
+      {
+        "_path": "Lib/site-packages/hyperlink/test/test_scheme_registration.py",
+        "path_type": "hardlink",
+        "sha256": "71196b255b7768508060ea73eaba927fd607141823b2299b7cd756f0f62a6df3",
+        "sha256_in_prefix": "71196b255b7768508060ea73eaba927fd607141823b2299b7cd756f0f62a6df3",
+        "size_in_bytes": 2328
+      },
+      {
+        "_path": "Lib/site-packages/hyperlink/test/test_url.py",
+        "path_type": "hardlink",
+        "sha256": "af6433188014b5100f3a223cb59327fecd726fda13efa70f3eb7eba43aba255a",
+        "sha256_in_prefix": "af6433188014b5100f3a223cb59327fecd726fda13efa70f3eb7eba43aba255a",
+        "size_in_bytes": 46415
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "None",
+  "size": 63984,
+  "subdir": "win-64",
+  "timestamp": 1519672022088,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/hyperlink-18.0.0-py36_0.tar.bz2",
+  "version": "18.0.0"
+}

@@ -1,0 +1,295 @@
+{
+  "arch": "x86_64",
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "attrs",
+    "python >=3.6,<3.7.0a0",
+    "six"
+  ],
+  "extracted_package_dir": "C:\\ProgramData\\Miniconda3\\pkgs\\automat-0.7.0-py36_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/Automat-0.7.0-py3.6.egg-info/PKG-INFO",
+    "Lib/site-packages/Automat-0.7.0-py3.6.egg-info/SOURCES.txt",
+    "Lib/site-packages/Automat-0.7.0-py3.6.egg-info/dependency_links.txt",
+    "Lib/site-packages/Automat-0.7.0-py3.6.egg-info/entry_points.txt",
+    "Lib/site-packages/Automat-0.7.0-py3.6.egg-info/requires.txt",
+    "Lib/site-packages/Automat-0.7.0-py3.6.egg-info/top_level.txt",
+    "Lib/site-packages/automat/__init__.py",
+    "Lib/site-packages/automat/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/automat/__pycache__/_core.cpython-36.pyc",
+    "Lib/site-packages/automat/__pycache__/_discover.cpython-36.pyc",
+    "Lib/site-packages/automat/__pycache__/_introspection.cpython-36.pyc",
+    "Lib/site-packages/automat/__pycache__/_methodical.cpython-36.pyc",
+    "Lib/site-packages/automat/__pycache__/_visualize.cpython-36.pyc",
+    "Lib/site-packages/automat/_core.py",
+    "Lib/site-packages/automat/_discover.py",
+    "Lib/site-packages/automat/_introspection.py",
+    "Lib/site-packages/automat/_methodical.py",
+    "Lib/site-packages/automat/_test/__init__.py",
+    "Lib/site-packages/automat/_test/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/automat/_test/__pycache__/test_core.cpython-36.pyc",
+    "Lib/site-packages/automat/_test/__pycache__/test_discover.cpython-36.pyc",
+    "Lib/site-packages/automat/_test/__pycache__/test_methodical.cpython-36.pyc",
+    "Lib/site-packages/automat/_test/__pycache__/test_trace.cpython-36.pyc",
+    "Lib/site-packages/automat/_test/__pycache__/test_visualize.cpython-36.pyc",
+    "Lib/site-packages/automat/_test/test_core.py",
+    "Lib/site-packages/automat/_test/test_discover.py",
+    "Lib/site-packages/automat/_test/test_methodical.py",
+    "Lib/site-packages/automat/_test/test_trace.py",
+    "Lib/site-packages/automat/_test/test_visualize.py",
+    "Lib/site-packages/automat/_visualize.py",
+    "Scripts/automat-visualize-script.py",
+    "Scripts/automat-visualize.exe"
+  ],
+  "fn": "automat-0.7.0-py36_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\ProgramData\\Miniconda3\\pkgs\\automat-0.7.0-py36_0",
+    "type": 1
+  },
+  "md5": "a2eeb133bce6b69df374646e26a90fba",
+  "name": "automat",
+  "package_tarball_full_path": "C:\\ProgramData\\Miniconda3\\pkgs\\automat-0.7.0-py36_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/Automat-0.7.0-py3.6.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "5d1dc139eeb1c27f93a2b7a6ba191eb81669f1f5280020cf6fb66d17986cd1bb",
+        "sha256_in_prefix": "5d1dc139eeb1c27f93a2b7a6ba191eb81669f1f5280020cf6fb66d17986cd1bb",
+        "size_in_bytes": 20472
+      },
+      {
+        "_path": "Lib/site-packages/Automat-0.7.0-py3.6.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "47cf8a481927eb597c0963b74c8bc4832ed3a65d82617e6dbd9895a7e72d6b57",
+        "sha256_in_prefix": "47cf8a481927eb597c0963b74c8bc4832ed3a65d82617e6dbd9895a7e72d6b57",
+        "size_in_bytes": 901
+      },
+      {
+        "_path": "Lib/site-packages/Automat-0.7.0-py3.6.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "Lib/site-packages/Automat-0.7.0-py3.6.egg-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "8b8b43339ab0cb7bf528837b1134b65d155c1e44e1864abb6454cfbb23fa0690",
+        "sha256_in_prefix": "8b8b43339ab0cb7bf528837b1134b65d155c1e44e1864abb6454cfbb23fa0690",
+        "size_in_bytes": 63
+      },
+      {
+        "_path": "Lib/site-packages/Automat-0.7.0-py3.6.egg-info/requires.txt",
+        "path_type": "hardlink",
+        "sha256": "77f9e22581bc032c3df6fd719cb88da46f6ea3ea993fd49b6b745e9e7f4bbef1",
+        "sha256_in_prefix": "77f9e22581bc032c3df6fd719cb88da46f6ea3ea993fd49b6b745e9e7f4bbef1",
+        "size_in_bytes": 62
+      },
+      {
+        "_path": "Lib/site-packages/Automat-0.7.0-py3.6.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "be0e3300eca13ffdd80a6a4a64b360170d6e305de50bf6fa4cab1dcfb8c14a92",
+        "sha256_in_prefix": "be0e3300eca13ffdd80a6a4a64b360170d6e305de50bf6fa4cab1dcfb8c14a92",
+        "size_in_bytes": 8
+      },
+      {
+        "_path": "Lib/site-packages/automat/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "79cf0f20b070b77e71cb3b2cb54f64c7ca790038ba297f5dd6b04b66ca1c37f6",
+        "sha256_in_prefix": "79cf0f20b070b77e71cb3b2cb54f64c7ca790038ba297f5dd6b04b66ca1c37f6",
+        "size_in_bytes": 169
+      },
+      {
+        "_path": "Lib/site-packages/automat/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "ebf0a0dd9f247d681086d3f98d170d6451333f41928425f4ff21793bcf08cf6a",
+        "sha256_in_prefix": "ebf0a0dd9f247d681086d3f98d170d6451333f41928425f4ff21793bcf08cf6a",
+        "size_in_bytes": 246
+      },
+      {
+        "_path": "Lib/site-packages/automat/__pycache__/_core.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "3cd2a20bba6b828f8943d35224289327de6d1cb09f21a44090e4b9d3f5dce44f",
+        "sha256_in_prefix": "3cd2a20bba6b828f8943d35224289327de6d1cb09f21a44090e4b9d3f5dce44f",
+        "size_in_bytes": 5182
+      },
+      {
+        "_path": "Lib/site-packages/automat/__pycache__/_discover.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "203652633c4f1ca6e13bb09428ba0a732418c740d8b883a9087438f5754944a1",
+        "sha256_in_prefix": "203652633c4f1ca6e13bb09428ba0a732418c740d8b883a9087438f5754944a1",
+        "size_in_bytes": 4283
+      },
+      {
+        "_path": "Lib/site-packages/automat/__pycache__/_introspection.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "4ee6e4ddd10ebbe2e707ef56dc9b7a417239e35acf5620d600bd79ec8dfe316a",
+        "sha256_in_prefix": "4ee6e4ddd10ebbe2e707ef56dc9b7a417239e35acf5620d600bd79ec8dfe316a",
+        "size_in_bytes": 1625
+      },
+      {
+        "_path": "Lib/site-packages/automat/__pycache__/_methodical.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "d990200055caea8f16a0c05bd3f854147992ed4f21aeb0b3d38e0263cdf8577d",
+        "sha256_in_prefix": "d990200055caea8f16a0c05bd3f854147992ed4f21aeb0b3d38e0263cdf8577d",
+        "size_in_bytes": 15118
+      },
+      {
+        "_path": "Lib/site-packages/automat/__pycache__/_visualize.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "52990113bd7106c3db3d8a62cba03ed18455204be7d5307f5af1a554190b69fe",
+        "sha256_in_prefix": "52990113bd7106c3db3d8a62cba03ed18455204be7d5307f5af1a554190b69fe",
+        "size_in_bytes": 4826
+      },
+      {
+        "_path": "Lib/site-packages/automat/_core.py",
+        "path_type": "hardlink",
+        "sha256": "466087cdef76cc1ef22d3fc5a9bf2209ae610946358c5d703eaaa373a099587e",
+        "sha256_in_prefix": "466087cdef76cc1ef22d3fc5a9bf2209ae610946358c5d703eaaa373a099587e",
+        "size_in_bytes": 4825
+      },
+      {
+        "_path": "Lib/site-packages/automat/_discover.py",
+        "path_type": "hardlink",
+        "sha256": "c9eecd1cb664af062c3e60694c8c89b89f954429b090e5290348acf80f35cf4e",
+        "sha256_in_prefix": "c9eecd1cb664af062c3e60694c8c89b89f954429b090e5290348acf80f35cf4e",
+        "size_in_bytes": 4367
+      },
+      {
+        "_path": "Lib/site-packages/automat/_introspection.py",
+        "path_type": "hardlink",
+        "sha256": "4abe958a9b2f28a60da58ed82994a922ca9f4ccb93fb14574bbe6517bc5b1476",
+        "sha256_in_prefix": "4abe958a9b2f28a60da58ed82994a922ca9f4ccb93fb14574bbe6517bc5b1476",
+        "size_in_bytes": 1135
+      },
+      {
+        "_path": "Lib/site-packages/automat/_methodical.py",
+        "path_type": "hardlink",
+        "sha256": "00459a81361a005f0f097b18a104587919f4ec98397dd28316e0253ef1981d43",
+        "sha256_in_prefix": "00459a81361a005f0f097b18a104587919f4ec98397dd28316e0253ef1981d43",
+        "size_in_bytes": 15932
+      },
+      {
+        "_path": "Lib/site-packages/automat/_test/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/automat/_test/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "53c0c11c57b416641fde99733351d8393eb38f6dee15e09240ac7074e7104244",
+        "sha256_in_prefix": "53c0c11c57b416641fde99733351d8393eb38f6dee15e09240ac7074e7104244",
+        "size_in_bytes": 126
+      },
+      {
+        "_path": "Lib/site-packages/automat/_test/__pycache__/test_core.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "e5383988ca75343fcafc66b218ec6bd0a37d0e58547a3ab1d861e46c8eb74ac1",
+        "sha256_in_prefix": "e5383988ca75343fcafc66b218ec6bd0a37d0e58547a3ab1d861e46c8eb74ac1",
+        "size_in_bytes": 2934
+      },
+      {
+        "_path": "Lib/site-packages/automat/_test/__pycache__/test_discover.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "76af27a425d81726a45c5ebce51707d2a759baf369c75f9e720c2279a1595cf4",
+        "sha256_in_prefix": "76af27a425d81726a45c5ebce51707d2a759baf369c75f9e720c2279a1595cf4",
+        "size_in_bytes": 21685
+      },
+      {
+        "_path": "Lib/site-packages/automat/_test/__pycache__/test_methodical.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "4291e294afdfdaa69ab144547b5626bb2a646d16ea60f5d0e4b9de1bcdf00a0c",
+        "sha256_in_prefix": "4291e294afdfdaa69ab144547b5626bb2a646d16ea60f5d0e4b9de1bcdf00a0c",
+        "size_in_bytes": 26889
+      },
+      {
+        "_path": "Lib/site-packages/automat/_test/__pycache__/test_trace.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "23b812a799fd15d4b6d27aa428f1863ef3716103d33953dab8df609b69804f2a",
+        "sha256_in_prefix": "23b812a799fd15d4b6d27aa428f1863ef3716103d33953dab8df609b69804f2a",
+        "size_in_bytes": 3344
+      },
+      {
+        "_path": "Lib/site-packages/automat/_test/__pycache__/test_visualize.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "9142c6b7f8f765d3bd34cc48bd9c9ebd5983f18fcfe004ca78f50236826686f7",
+        "sha256_in_prefix": "9142c6b7f8f765d3bd34cc48bd9c9ebd5983f18fcfe004ca78f50236826686f7",
+        "size_in_bytes": 15609
+      },
+      {
+        "_path": "Lib/site-packages/automat/_test/test_core.py",
+        "path_type": "hardlink",
+        "sha256": "ef990453b3758c736665ccf499c9b97b6fd48829a2ec5b3353b2ea93a6e345f3",
+        "sha256_in_prefix": "ef990453b3758c736665ccf499c9b97b6fd48829a2ec5b3353b2ea93a6e345f3",
+        "size_in_bytes": 2848
+      },
+      {
+        "_path": "Lib/site-packages/automat/_test/test_discover.py",
+        "path_type": "hardlink",
+        "sha256": "3bd9dd01d4400bcb8ed2e0e18a8cf77b8e44b09085d7d8d06444a3d11042ed93",
+        "sha256_in_prefix": "3bd9dd01d4400bcb8ed2e0e18a8cf77b8e44b09085d7d8d06444a3d11042ed93",
+        "size_in_bytes": 21846
+      },
+      {
+        "_path": "Lib/site-packages/automat/_test/test_methodical.py",
+        "path_type": "hardlink",
+        "sha256": "b750802ad4f57ecf85a0a310c57978932ebfea98291bb9460dbc90adbfef21ea",
+        "sha256_in_prefix": "b750802ad4f57ecf85a0a310c57978932ebfea98291bb9460dbc90adbfef21ea",
+        "size_in_bytes": 18856
+      },
+      {
+        "_path": "Lib/site-packages/automat/_test/test_trace.py",
+        "path_type": "hardlink",
+        "sha256": "331d41f1081a13b40593a6e54e27b68fe571f7985357ecf24a79712da96df1e9",
+        "sha256_in_prefix": "331d41f1081a13b40593a6e54e27b68fe571f7985357ecf24a79712da96df1e9",
+        "size_in_bytes": 3279
+      },
+      {
+        "_path": "Lib/site-packages/automat/_test/test_visualize.py",
+        "path_type": "hardlink",
+        "sha256": "f04acd631a2f4e20f2664624a0fd4173211acd4fecd1843734775f1fd3a28408",
+        "sha256_in_prefix": "f04acd631a2f4e20f2664624a0fd4173211acd4fecd1843734775f1fd3a28408",
+        "size_in_bytes": 13744
+      },
+      {
+        "_path": "Lib/site-packages/automat/_visualize.py",
+        "path_type": "hardlink",
+        "sha256": "8d8f0793368674ca1707b2dabef6a7796e0676d04de8f452865efee0e5c3becb",
+        "sha256_in_prefix": "8d8f0793368674ca1707b2dabef6a7796e0676d04de8f452865efee0e5c3becb",
+        "size_in_bytes": 6335
+      },
+      {
+        "_path": "Scripts/automat-visualize-script.py",
+        "path_type": "hardlink",
+        "sha256": "29dbbbbc3ad8c29906b24cdd599380c7e9d10a54df54c3043ead6a1c6c820995",
+        "sha256_in_prefix": "29dbbbbc3ad8c29906b24cdd599380c7e9d10a54df54c3043ead6a1c6c820995",
+        "size_in_bytes": 212
+      },
+      {
+        "_path": "Scripts/automat-visualize.exe",
+        "path_type": "hardlink",
+        "sha256": "993203a406e04936a07829b1f482fd27d739b640482e213f4c49ea1ee78a5fcf",
+        "sha256_in_prefix": "993203a406e04936a07829b1f482fd27d739b640482e213f4c49ea1ee78a5fcf",
+        "size_in_bytes": 40960
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "None",
+  "size": 71920,
+  "subdir": "win-64",
+  "timestamp": 1529431965760,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/automat-0.7.0-py36_0.tar.bz2",
+  "version": "0.7.0"
+}

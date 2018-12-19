@@ -1,0 +1,13 @@
+prefix=D:/PyCharm_Pjt/yum_spider/venv/Library
+exec_prefix=D:/PyCharm_Pjt/yum_spider/venv/Library
+libdir=D:/PyCharm_Pjt/yum_spider/venv/Library/lib
+sharedlibdir=D:/PyCharm_Pjt/yum_spider/venv/Library/lib
+includedir=D:/PyCharm_Pjt/yum_spider/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.11
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
