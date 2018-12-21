@@ -8,19 +8,26 @@ class K8sSpider(scrapy.Spider):
     name = 'k8s-spider'
     allowed_domains = ['https://packages.cloud.google.com/yum/repos']
     start_urls = ['https://packages.cloud.google.com/yum/repos/']
+    repo_url = 'https://packages.cloud.google.com/yum/repos'
+    url_list = []
+    k8s_dir = 'D:\PyCharm_Pjt\yum_spider\Repos_k8s\\'
 
     def parse(self, response):
-        #filename = "k8s_repo.html"
-        #with open(filename, 'w') as f:
-        #    f.write(response.body.decode('utf-8'))
 
-        a_m_t = response.xpath("//a[contains(@href,'kube')]/@href")
-        for a in a_m_t:
-            print(a)
+        a1 = response.xpath("//a[contains(@href,'kube')]/@href")
+        a1_list = a1.extract()
+        for n, a in zip(range(20), a1_list):
+            os.mkdir(self.k8s_dir + a[11:])
+            url = self.repo_url + a[11:]
+            self.url_list.append(url)
 
-    # def get_detail(self, response):
-    #
-    #     item_loader = ArithmeticError(item=K8sItem(), response=response)
-    #
-    #     item_loader.add_xpath('title', '//')
-        pass
+        print(self.url_list)
+
+        for url2 in self.url_list:
+
+
+
+    def url_add(self, url):
+        second_url = self.allowed_domains + url
+        return second_url
+
