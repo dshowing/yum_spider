@@ -7,16 +7,26 @@
 
 import scrapy
 import logging
+import os
+import urllib.request
 
-from yum_spider import settings
+from scrapy.pipelines.files import FilesPipeline
+from yum_spider.settings import USER_AGENT_LIST
+from yum_spider.items import YumSpiderItem
+from os.path import basename, dirname, join
 
 
-logger = logging.getLogger(__name__)
+class YumSpiderFileDownloadPipeline(FilesPipeline):
 
-class YumSpiderPipeline(object):
     def process_item(self, item, spider):
-        if item["come_from"] == 'k8s':
-            #logger.warning("-"*10)
-            print(item)
-        return item
+        return item['file_urls']
+        # for header in USER_AGENT_LIST:
+        #     req = urllib.request.Request(url=item['fileurls'], header=header)
+        #     res = urllib.request.urlopen(req)
+        #     file_name = item['filenames']
+        #     with open(file_name, 'wb') as f:
+        #         f.write(res.read())
+
+
+
 

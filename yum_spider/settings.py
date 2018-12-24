@@ -15,7 +15,7 @@ SPIDER_MODULES = ['yum_spider.spiders']
 NEWSPIDER_MODULE = 'yum_spider.spiders'
 
 LOG_LEVEL = "WARNING"
-LOG_FILE = "./log.log"
+#LOG_FILE = "./log.log"
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 USER_AGENT_LIST = [
     "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1"
@@ -71,9 +71,11 @@ ROBOTSTXT_OBEY = True
 
 # Enable or disable downloader middlewares
 # See https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
-DOWNLOADER_MIDDLEWARES = {
-   'yum_spider.middlewares.YumSpiderDownloaderMiddleware': 543,
-}
+# DOWNLOADER_MIDDLEWARES = {
+#     #'yum_spider.middlewares.YumSpiderDownloaderMiddleware': 543,
+#     'yum_spider.middlewares.RandomUserAgentMiddleware': 300,
+#     'yum_spider.middlewares.CheckUserAgent': 301
+# }
 
 # Enable or disable extensions
 # See https://doc.scrapy.org/en/latest/topics/extensions.html
@@ -85,10 +87,14 @@ DOWNLOADER_MIDDLEWARES = {
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 
 ITEM_PIPELINES = {
-    'yum_spider.pipelines.YumSpiderPipeline': 300,
-    #'yum_spider.pipelines.YumSpiderPipelinefile': 301
+    #启用filepipeline
+    'scrapy.pipelines.files.FilesPipeline': 1,
+    #重写
+    'yum_spider.pipelines.YumSpiderFileDownloadPipeline': 300
 }
 FILES_STORY = 'D:\PyCharm_Pjt\yum_spider\Repos_k8s\\'
+FILES_URLS_FIELD = 'file_urls'
+FILES_RESULT_FIELD = 'filenames'
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html

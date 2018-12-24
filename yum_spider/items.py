@@ -10,9 +10,8 @@ import scrapy
 
 class YumSpiderItem(scrapy.Item):
     # define the fields for your item here like:
-    # name = scrapy.Field()
-    name = scrapy.Field()
-    dirs = scrapy.Field()
-    #default_output_processor = TakeFirst()
-
+    filenames = scrapy.Field()
+    repodirs = scrapy.Field()
+    repourls = scrapy.Field()
+    file_urls = scrapy.Field()
 
