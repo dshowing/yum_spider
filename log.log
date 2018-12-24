@@ -1,0 +1,168 @@
+2018-12-23 23:17:10 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el6-x86_64', 'urls': '/yum/repos//kubernetes-el6-x86_64'}
+2018-12-23 23:17:10 [yum_spider.pipelines] WARNING: ----------
+2018-12-23 23:17:10 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el6-x86_64-unstable', 'urls': '/yum/repos//kubernetes-el6-x86_64-unstable'}
+2018-12-23 23:17:10 [yum_spider.pipelines] WARNING: ----------
+2018-12-23 23:17:10 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-aarch64', 'urls': '/yum/repos//kubernetes-el7-aarch64'}
+2018-12-23 23:17:10 [yum_spider.pipelines] WARNING: ----------
+2018-12-23 23:17:10 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-aarch64-unstable', 'urls': '/yum/repos//kubernetes-el7-aarch64-unstable'}
+2018-12-23 23:17:10 [yum_spider.pipelines] WARNING: ----------
+2018-12-23 23:17:10 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-armhfp', 'urls': '/yum/repos//kubernetes-el7-armhfp'}
+2018-12-23 23:17:10 [yum_spider.pipelines] WARNING: ----------
+2018-12-23 23:17:10 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-armhfp-unstable', 'urls': '/yum/repos//kubernetes-el7-armhfp-unstable'}
+2018-12-23 23:17:10 [yum_spider.pipelines] WARNING: ----------
+2018-12-23 23:17:10 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-ppc64le', 'urls': '/yum/repos//kubernetes-el7-ppc64le'}
+2018-12-23 23:17:10 [yum_spider.pipelines] WARNING: ----------
+2018-12-23 23:17:10 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-ppc64le-unstable', 'urls': '/yum/repos//kubernetes-el7-ppc64le-unstable'}
+2018-12-23 23:17:10 [yum_spider.pipelines] WARNING: ----------
+2018-12-23 23:17:10 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-s390x', 'urls': '/yum/repos//kubernetes-el7-s390x'}
+2018-12-23 23:17:10 [yum_spider.pipelines] WARNING: ----------
+2018-12-23 23:17:10 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-s390x-unstable', 'urls': '/yum/repos//kubernetes-el7-s390x-unstable'}
+2018-12-23 23:17:10 [yum_spider.pipelines] WARNING: ----------
+2018-12-23 23:17:10 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-x86_64', 'urls': '/yum/repos//kubernetes-el7-x86_64'}
+2018-12-23 23:17:10 [yum_spider.pipelines] WARNING: ----------
+2018-12-23 23:17:10 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-x86_64-unstable', 'urls': '/yum/repos//kubernetes-el7-x86_64-unstable'}
+2018-12-23 23:17:10 [yum_spider.pipelines] WARNING: ----------
+2018-12-23 23:17:10 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//minikube-el6-i386', 'urls': '/yum/repos//minikube-el6-i386'}
+2018-12-23 23:17:10 [yum_spider.pipelines] WARNING: ----------
+2018-12-23 23:17:10 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//minikube-el6-x86_64', 'urls': '/yum/repos//minikube-el6-x86_64'}
+2018-12-23 23:17:10 [yum_spider.pipelines] WARNING: ----------
+2018-12-23 23:17:10 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//minikube-el7-x86_64', 'urls': '/yum/repos//minikube-el7-x86_64'}
+2018-12-23 23:17:10 [yum_spider.pipelines] WARNING: ----------
+2018-12-24 09:15:37 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el6-x86_64', 'urls': '/yum/repos//kubernetes-el6-x86_64'}
+2018-12-24 09:15:37 [yum_spider.pipelines] WARNING: ----------
+2018-12-24 09:15:37 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el6-x86_64-unstable', 'urls': '/yum/repos//kubernetes-el6-x86_64-unstable'}
+2018-12-24 09:15:37 [yum_spider.pipelines] WARNING: ----------
+2018-12-24 09:15:37 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-aarch64', 'urls': '/yum/repos//kubernetes-el7-aarch64'}
+2018-12-24 09:15:37 [yum_spider.pipelines] WARNING: ----------
+2018-12-24 09:15:37 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-aarch64-unstable', 'urls': '/yum/repos//kubernetes-el7-aarch64-unstable'}
+2018-12-24 09:15:37 [yum_spider.pipelines] WARNING: ----------
+2018-12-24 09:15:37 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-armhfp', 'urls': '/yum/repos//kubernetes-el7-armhfp'}
+2018-12-24 09:15:37 [yum_spider.pipelines] WARNING: ----------
+2018-12-24 09:15:37 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-armhfp-unstable', 'urls': '/yum/repos//kubernetes-el7-armhfp-unstable'}
+2018-12-24 09:15:37 [yum_spider.pipelines] WARNING: ----------
+2018-12-24 09:15:37 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-ppc64le', 'urls': '/yum/repos//kubernetes-el7-ppc64le'}
+2018-12-24 09:15:37 [yum_spider.pipelines] WARNING: ----------
+2018-12-24 09:15:37 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-ppc64le-unstable', 'urls': '/yum/repos//kubernetes-el7-ppc64le-unstable'}
+2018-12-24 09:15:37 [yum_spider.pipelines] WARNING: ----------
+2018-12-24 09:15:37 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-s390x', 'urls': '/yum/repos//kubernetes-el7-s390x'}
+2018-12-24 09:15:37 [yum_spider.pipelines] WARNING: ----------
+2018-12-24 09:15:37 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-s390x-unstable', 'urls': '/yum/repos//kubernetes-el7-s390x-unstable'}
+2018-12-24 09:15:37 [yum_spider.pipelines] WARNING: ----------
+2018-12-24 09:15:37 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-x86_64', 'urls': '/yum/repos//kubernetes-el7-x86_64'}
+2018-12-24 09:15:37 [yum_spider.pipelines] WARNING: ----------
+2018-12-24 09:15:37 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-x86_64-unstable', 'urls': '/yum/repos//kubernetes-el7-x86_64-unstable'}
+2018-12-24 09:15:37 [yum_spider.pipelines] WARNING: ----------
+2018-12-24 09:15:37 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//minikube-el6-i386', 'urls': '/yum/repos//minikube-el6-i386'}
+2018-12-24 09:15:37 [yum_spider.pipelines] WARNING: ----------
+2018-12-24 09:15:37 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//minikube-el6-x86_64', 'urls': '/yum/repos//minikube-el6-x86_64'}
+2018-12-24 09:15:37 [yum_spider.pipelines] WARNING: ----------
+2018-12-24 09:15:37 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//minikube-el7-x86_64', 'urls': '/yum/repos//minikube-el7-x86_64'}
+2018-12-24 09:15:37 [yum_spider.pipelines] WARNING: ----------
+2018-12-24 09:21:20 [twisted] CRITICAL: Unhandled error in Deferred:
+2018-12-24 09:21:20 [twisted] CRITICAL: 
+Traceback (most recent call last):
+  File "C:\ProgramData\Miniconda3\envs\venv\lib\site-packages\twisted\internet\defer.py", line 1418, in _inlineCallbacks
+    result = g.send(result)
+  File "C:\ProgramData\Miniconda3\envs\venv\lib\site-packages\scrapy\crawler.py", line 80, in crawl
+    self.engine = self._create_engine()
+  File "C:\ProgramData\Miniconda3\envs\venv\lib\site-packages\scrapy\crawler.py", line 105, in _create_engine
+    return ExecutionEngine(self, lambda _: self.stop())
+  File "C:\ProgramData\Miniconda3\envs\venv\lib\site-packages\scrapy\core\engine.py", line 70, in __init__
+    self.scraper = Scraper(crawler)
+  File "C:\ProgramData\Miniconda3\envs\venv\lib\site-packages\scrapy\core\scraper.py", line 71, in __init__
+    self.itemproc = itemproc_cls.from_crawler(crawler)
+  File "C:\ProgramData\Miniconda3\envs\venv\lib\site-packages\scrapy\middleware.py", line 58, in from_crawler
+    return cls.from_settings(crawler.settings, crawler)
+  File "C:\ProgramData\Miniconda3\envs\venv\lib\site-packages\scrapy\middleware.py", line 34, in from_settings
+    mwcls = load_object(clspath)
+  File "C:\ProgramData\Miniconda3\envs\venv\lib\site-packages\scrapy\utils\misc.py", line 44, in load_object
+    mod = import_module(module)
+  File "C:\ProgramData\Miniconda3\envs\venv\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "D:\PyCharm_Pjt\yum_spider\yum_spider\pipelines.py", line 20
+    return item
+         ^
+IndentationError: expected an indented block
+2018-12-24 09:21:59 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el6-x86_64', 'urls': '/yum/repos//kubernetes-el6-x86_64'}
+2018-12-24 09:21:59 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el6-x86_64-unstable', 'urls': '/yum/repos//kubernetes-el6-x86_64-unstable'}
+2018-12-24 09:21:59 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-aarch64', 'urls': '/yum/repos//kubernetes-el7-aarch64'}
+2018-12-24 09:21:59 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-aarch64-unstable', 'urls': '/yum/repos//kubernetes-el7-aarch64-unstable'}
+2018-12-24 09:21:59 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-armhfp', 'urls': '/yum/repos//kubernetes-el7-armhfp'}
+2018-12-24 09:21:59 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-armhfp-unstable', 'urls': '/yum/repos//kubernetes-el7-armhfp-unstable'}
+2018-12-24 09:21:59 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-ppc64le', 'urls': '/yum/repos//kubernetes-el7-ppc64le'}
+2018-12-24 09:21:59 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-ppc64le-unstable', 'urls': '/yum/repos//kubernetes-el7-ppc64le-unstable'}
+2018-12-24 09:21:59 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-s390x', 'urls': '/yum/repos//kubernetes-el7-s390x'}
+2018-12-24 09:21:59 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-s390x-unstable', 'urls': '/yum/repos//kubernetes-el7-s390x-unstable'}
+2018-12-24 09:21:59 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-x86_64', 'urls': '/yum/repos//kubernetes-el7-x86_64'}
+2018-12-24 09:21:59 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-x86_64-unstable', 'urls': '/yum/repos//kubernetes-el7-x86_64-unstable'}
+2018-12-24 09:21:59 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//minikube-el6-i386', 'urls': '/yum/repos//minikube-el6-i386'}
+2018-12-24 09:21:59 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//minikube-el6-x86_64', 'urls': '/yum/repos//minikube-el6-x86_64'}
+2018-12-24 09:21:59 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//minikube-el7-x86_64', 'urls': '/yum/repos//minikube-el7-x86_64'}
+2018-12-24 09:22:53 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el6-x86_64', 'urls': '/yum/repos//kubernetes-el6-x86_64'}
+2018-12-24 09:22:53 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el6-x86_64-unstable', 'urls': '/yum/repos//kubernetes-el6-x86_64-unstable'}
+2018-12-24 09:22:53 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-aarch64', 'urls': '/yum/repos//kubernetes-el7-aarch64'}
+2018-12-24 09:22:53 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-aarch64-unstable', 'urls': '/yum/repos//kubernetes-el7-aarch64-unstable'}
+2018-12-24 09:22:53 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-armhfp', 'urls': '/yum/repos//kubernetes-el7-armhfp'}
+2018-12-24 09:22:53 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-armhfp-unstable', 'urls': '/yum/repos//kubernetes-el7-armhfp-unstable'}
+2018-12-24 09:22:53 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-ppc64le', 'urls': '/yum/repos//kubernetes-el7-ppc64le'}
+2018-12-24 09:22:53 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-ppc64le-unstable', 'urls': '/yum/repos//kubernetes-el7-ppc64le-unstable'}
+2018-12-24 09:22:53 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-s390x', 'urls': '/yum/repos//kubernetes-el7-s390x'}
+2018-12-24 09:22:53 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-s390x-unstable', 'urls': '/yum/repos//kubernetes-el7-s390x-unstable'}
+2018-12-24 09:22:53 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-x86_64', 'urls': '/yum/repos//kubernetes-el7-x86_64'}
+2018-12-24 09:22:53 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-x86_64-unstable', 'urls': '/yum/repos//kubernetes-el7-x86_64-unstable'}
+2018-12-24 09:22:53 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//minikube-el6-i386', 'urls': '/yum/repos//minikube-el6-i386'}
+2018-12-24 09:22:53 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//minikube-el6-x86_64', 'urls': '/yum/repos//minikube-el6-x86_64'}
+2018-12-24 09:22:53 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//minikube-el7-x86_64', 'urls': '/yum/repos//minikube-el7-x86_64'}
+2018-12-24 10:19:29 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el6-x86_64', 'urls': '/yum/repos//kubernetes-el6-x86_64'}
+2018-12-24 10:19:29 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el6-x86_64-unstable', 'urls': '/yum/repos//kubernetes-el6-x86_64-unstable'}
+2018-12-24 10:19:29 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-aarch64', 'urls': '/yum/repos//kubernetes-el7-aarch64'}
+2018-12-24 10:19:29 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-aarch64-unstable', 'urls': '/yum/repos//kubernetes-el7-aarch64-unstable'}
+2018-12-24 10:19:29 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-armhfp', 'urls': '/yum/repos//kubernetes-el7-armhfp'}
+2018-12-24 10:19:29 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-armhfp-unstable', 'urls': '/yum/repos//kubernetes-el7-armhfp-unstable'}
+2018-12-24 10:19:29 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-ppc64le', 'urls': '/yum/repos//kubernetes-el7-ppc64le'}
+2018-12-24 10:19:29 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-ppc64le-unstable', 'urls': '/yum/repos//kubernetes-el7-ppc64le-unstable'}
+2018-12-24 10:19:29 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-s390x', 'urls': '/yum/repos//kubernetes-el7-s390x'}
+2018-12-24 10:19:29 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-s390x-unstable', 'urls': '/yum/repos//kubernetes-el7-s390x-unstable'}
+2018-12-24 10:19:29 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-x86_64', 'urls': '/yum/repos//kubernetes-el7-x86_64'}
+2018-12-24 10:19:29 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-x86_64-unstable', 'urls': '/yum/repos//kubernetes-el7-x86_64-unstable'}
+2018-12-24 10:19:29 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//minikube-el6-i386', 'urls': '/yum/repos//minikube-el6-i386'}
+2018-12-24 10:19:29 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//minikube-el6-x86_64', 'urls': '/yum/repos//minikube-el6-x86_64'}
+2018-12-24 10:19:29 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//minikube-el7-x86_64', 'urls': '/yum/repos//minikube-el7-x86_64'}
+2018-12-24 10:32:34 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el6-x86_64', 'urls': '/yum/repos//kubernetes-el6-x86_64'}
+2018-12-24 10:32:34 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el6-x86_64-unstable', 'urls': '/yum/repos//kubernetes-el6-x86_64-unstable'}
+2018-12-24 10:32:34 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-aarch64', 'urls': '/yum/repos//kubernetes-el7-aarch64'}
+2018-12-24 10:32:34 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-aarch64-unstable', 'urls': '/yum/repos//kubernetes-el7-aarch64-unstable'}
+2018-12-24 10:32:34 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-armhfp', 'urls': '/yum/repos//kubernetes-el7-armhfp'}
+2018-12-24 10:32:34 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-armhfp-unstable', 'urls': '/yum/repos//kubernetes-el7-armhfp-unstable'}
+2018-12-24 10:32:34 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-ppc64le', 'urls': '/yum/repos//kubernetes-el7-ppc64le'}
+2018-12-24 10:32:34 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-ppc64le-unstable', 'urls': '/yum/repos//kubernetes-el7-ppc64le-unstable'}
+2018-12-24 10:32:34 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-s390x', 'urls': '/yum/repos//kubernetes-el7-s390x'}
+2018-12-24 10:32:34 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-s390x-unstable', 'urls': '/yum/repos//kubernetes-el7-s390x-unstable'}
+2018-12-24 10:32:34 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-x86_64', 'urls': '/yum/repos//kubernetes-el7-x86_64'}
+2018-12-24 10:32:34 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-x86_64-unstable', 'urls': '/yum/repos//kubernetes-el7-x86_64-unstable'}
+2018-12-24 10:32:34 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//minikube-el6-i386', 'urls': '/yum/repos//minikube-el6-i386'}
+2018-12-24 10:32:34 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//minikube-el6-x86_64', 'urls': '/yum/repos//minikube-el6-x86_64'}
+2018-12-24 10:32:34 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//minikube-el7-x86_64', 'urls': '/yum/repos//minikube-el7-x86_64'}
+2018-12-24 11:44:18 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el6-x86_64', 'urls': '/yum/repos//kubernetes-el6-x86_64'}
+2018-12-24 11:44:18 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el6-x86_64-unstable', 'urls': '/yum/repos//kubernetes-el6-x86_64-unstable'}
+2018-12-24 11:44:18 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-aarch64', 'urls': '/yum/repos//kubernetes-el7-aarch64'}
+2018-12-24 11:44:18 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-aarch64-unstable', 'urls': '/yum/repos//kubernetes-el7-aarch64-unstable'}
+2018-12-24 11:44:18 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-armhfp', 'urls': '/yum/repos//kubernetes-el7-armhfp'}
+2018-12-24 11:44:18 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-armhfp-unstable', 'urls': '/yum/repos//kubernetes-el7-armhfp-unstable'}
+2018-12-24 11:44:18 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-ppc64le', 'urls': '/yum/repos//kubernetes-el7-ppc64le'}
+2018-12-24 11:44:18 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-ppc64le-unstable', 'urls': '/yum/repos//kubernetes-el7-ppc64le-unstable'}
+2018-12-24 11:44:18 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-s390x', 'urls': '/yum/repos//kubernetes-el7-s390x'}
+2018-12-24 11:44:18 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-s390x-unstable', 'urls': '/yum/repos//kubernetes-el7-s390x-unstable'}
+2018-12-24 11:44:18 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-x86_64', 'urls': '/yum/repos//kubernetes-el7-x86_64'}
+2018-12-24 11:44:18 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//kubernetes-el7-x86_64-unstable', 'urls': '/yum/repos//kubernetes-el7-x86_64-unstable'}
+2018-12-24 11:44:18 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//minikube-el6-i386', 'urls': '/yum/repos//minikube-el6-i386'}
+2018-12-24 11:44:18 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//minikube-el6-x86_64', 'urls': '/yum/repos//minikube-el6-x86_64'}
+2018-12-24 11:44:18 [yum_spider.spiders.k8s_spider] WARNING: {'come_from': 'k8s', 'name': '/yum/repos//minikube-el7-x86_64', 'urls': '/yum/repos//minikube-el7-x86_64'}

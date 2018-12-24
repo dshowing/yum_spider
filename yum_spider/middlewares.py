@@ -5,6 +5,8 @@
 # See documentation in:
 # https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 
+import random
+
 from scrapy import signals
 
 
@@ -101,3 +103,17 @@ class YumSpiderDownloaderMiddleware(object):
 
     def spider_opened(self, spider):
         spider.logger.info('Spider opened: %s' % spider.name)
+
+
+class RandomUserAgentMiddleware:
+
+    def process_request(self, request, spider):
+        ua = random.choice(spider.settings.get("USER_AGENT_LIST"))
+        request.headers["User-Agent"] = ua
+
+
+
+class CheckUserAgent:
+
+    def process_response(self, request, response, spider):
+        print(request.headers["User-Agent"])

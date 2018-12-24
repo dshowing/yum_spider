@@ -6,22 +6,13 @@
 # https://doc.scrapy.org/en/latest/topics/items.html
 
 import scrapy
-from scrapy.loader import ItemLoader
-
-from scrapy.loader.processors import MapCompose, TakeFirst
 
 
-class YumSpiderItem(ItemLoader):
+class YumSpiderItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    default_output_processor = TakeFirst()
-
-
-class K8sItem(scrapy.Item):
-
     name = scrapy.Field()
-    title = scrapy.Field()
-    info = scrapy.Field()
+    dirs = scrapy.Field()
+    #default_output_processor = TakeFirst()
 
 
-    pass
